@@ -1,6 +1,6 @@
 # CAR STORE
 
-A brief description of your project.
+A brief description of My project.
 
 ## Technologies Used
 
