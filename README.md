@@ -1,4 +1,4 @@
-# Project Name
+# CAR STORE
 
 A brief description of your project.
 
@@ -23,6 +23,7 @@ Here are a few sample routes your project might provide:
 - **GET `/api/cars/:carId`** - Get a specific item by ID.
 - **PUT `/api/cars/:carId`** - Update a specific item by ID.
 - **DELETE `/api/cars/:carId`** - Delete a specific item by ID.
-
+- **POST `/api/orders`** - Order car.
+- **GET  `/api/orders/revenue`** - Chake revenue.
 
 
